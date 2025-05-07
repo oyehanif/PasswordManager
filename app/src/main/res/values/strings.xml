@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="password_manager_title">Password Manager</string>
+    <string name="add_password">Add Password</string>
+    <string name="no_passwords">No passwords</string>
+    <string name="no_passwords_message">No passwords saved yet</string>
+    <string name="add_first_password">Add your first password by clicking the + button</string>
+    <string name="view_details">View Details</string>
+    <string name="masked_password">••••••••</string>
+    <string name="account_details">Account Details</string>
+    <string name="account_type">Account Type</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_new_account">Add New Account</string>
+    <string name="account_name">Account Name</string>
+    <string name="all_fields_required">All fields are required</string>
+</resources>
